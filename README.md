@@ -1,4 +1,4 @@
-<h1>Hi there! Welcome to my GitHub!</h1> 👋🌵😊
+<h1 style="Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif">Hi there! Welcome to my GitHub! 👋🌵😊</h1> 
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQG0UX2Ed84caw/profile-displaybackgroundimage-shrink_350_1400/0/1618936958802?e=1625702400&v=beta&t=uW-RsCtjpb0bwilKYzTqvaJcmaH7luQOBFpz8mFoL2U" alt="cartoon girl with computer surrounded by plants"/>
 
