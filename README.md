@@ -10,6 +10,8 @@ In my free time, I like to go on hikes, walk my two pugs, try new icecream and c
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mermcintosh&count_private=true&theme=vue&showicons=true)]()
 
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 
 
 
