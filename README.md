@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! Welcome to my github! 👋🌵😊
+
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQG0UX2Ed84caw/profile-displaybackgroundimage-shrink_350_1400/0/1618936958802?e=1625702400&v=beta&t=uW-RsCtjpb0bwilKYzTqvaJcmaH7luQOBFpz8mFoL2U" alt="cartoon girl with computer surrounded by plants"/>
+
+Creative and solution-driven full-stack software engineer with a background in education. After graduating from Wilmington University in Winter 2015, I worked in the Wicomico County Public School system for 4 years as an elementary educator. I then moved to the DC area in Spring 2019 where I began teaching English to China-based students through VIPKid. When I transitioned to Flatiron School, I took my skills gained from my education background and applied them to learn Ruby, Rails, SQL, Javascript, and React.
+
+In my free time, I like to go on hikes, walk my two pugs, try new icecream and coffeeshops, and care for plants, lots and lots of plants!
+
+
 
 <!--
 **mermcintosh/mermcintosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
