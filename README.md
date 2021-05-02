@@ -6,6 +6,9 @@ Creative and solution-driven full-stack software engineer with a background in e
 
 In my free time, I like to go on hikes, walk my two pugs, try new icecream and coffee shops, and care for plants, lots and lots of plants!
 
+- name: Profile Readme Stats
+  uses: teoxoy/profile-readme-stats@v1
+
 
 
 <!--
