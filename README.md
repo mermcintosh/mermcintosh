@@ -10,9 +10,14 @@ In my free time, I like to go on hikes, walk my two pugs, try new icecream and c
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mermcintosh&count_private=true&theme=vue&showicons=true)]()
 
- <br> <br>
-
-  <img src="https://komarev.com/ghpvc/?username=mermcintosh" alt="https://github.com/mermcintosh" />
+ <br>
+ 
+ <p align="center">
+  <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
+</p>
 
 
 <hr>
