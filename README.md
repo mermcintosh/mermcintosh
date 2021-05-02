@@ -2,9 +2,18 @@
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQG0UX2Ed84caw/profile-displaybackgroundimage-shrink_350_1400/0/1618936958802?e=1625702400&v=beta&t=uW-RsCtjpb0bwilKYzTqvaJcmaH7luQOBFpz8mFoL2U" alt="cartoon girl with computer surrounded by plants"/>
 
-Creative and solution-driven full-stack software engineer with a background in education. After graduating from Wilmington University in Winter 2015, I worked in the Wicomico County Public School system for 4 years as an elementary educator. I then moved to the DC area in Spring 2019 where I began teaching English to China-based students through VIPKid. When I transitioned to Flatiron School, I took my skills gained from my education background and applied them to learn Ruby, Rails, SQL, Javascript, and React.
+<hr>
+
+ <p align="center">
+  <samp>Creative and solution-driven full-stack software engineer with a background in education. After graduating from Wilmington University in Winter 2015, I worked in the Wicomico County Public School system for 4 years as an elementary educator. I then moved to the DC area in Spring 2019 where I began teaching English to China-based students through VIPKid. When I transitioned to Flatiron School, I took my skills gained from my education background and applied them to learn Ruby, Rails, SQL, Javascript, and React.
 
 In my free time, I like to go on hikes, walk my two pugs, try new icecream and coffee shops, and care for plants, lots and lots of plants!
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
+</p>
+
+
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mermcintosh&langs_count=5&theme=vue)]()
 
@@ -12,12 +21,6 @@ In my free time, I like to go on hikes, walk my two pugs, try new icecream and c
 
  <br>
  
- <p align="center">
-  <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
-  </samp>
-  <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
-</p>
 
 
 <hr>
