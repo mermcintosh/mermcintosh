@@ -11,9 +11,9 @@ In my free time, I like to go on hikes, walk my two pugs, try new icecream and c
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mermcintosh&count_private=true&theme=vue&showicons=true)]()
 
  <br> <br>
- <p align="center>
+
   <img src="https://komarev.com/ghpvc/?username=mermcintosh" alt="https://github.com/mermcintosh" />
-</p>
+
 
 <hr>
 
