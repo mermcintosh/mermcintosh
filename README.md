@@ -6,8 +6,8 @@ Creative and solution-driven full-stack software engineer with a background in e
 
 In my free time, I like to go on hikes, walk my two pugs, try new icecream and coffee shops, and care for plants, lots and lots of plants!
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mermcintosh&count_private=true&theme=solarized-light&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mermcintosh&langs_count=5&theme=solarized-light)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mermcintosh&count_private=true&theme=vue&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mermcintosh&langs_count=5&theme=vue)]()
 
 
 
