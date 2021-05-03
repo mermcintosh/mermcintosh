@@ -54,7 +54,7 @@
 
 <hr>
 
-<img alt="my image" src="https://raw.githubusercontent.com/user/branch/images/myimage.svg?example=foo&sanitize=true>
+<img src="neuron_fig1.svg"/>
 
 
 <!--
