@@ -54,7 +54,7 @@
 
 <hr>
 
-<embed src="waves.svg">
+<object data="waves.svg" width="300" height="300"> </object>
 
 
 
