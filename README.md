@@ -54,9 +54,7 @@
 
 <hr>
 
-<a href="https://olivermak.es/">
-  <img src="https://olivermak.es/resources/icons/favicon144.svg" width="100%" height="144">
-</a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"><img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="" style="max-width:100%;"></a>
 
 
 <!--
