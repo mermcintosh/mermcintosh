@@ -54,7 +54,7 @@
 
 <hr>
 
-<img src="file:///Users/meredith/Desktop/wave.html" alt="wave"/>
+<img src="wave.svg" alt="wave"/>
 
 
 
