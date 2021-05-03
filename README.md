@@ -54,7 +54,7 @@
 
 <hr>
 
-<img src="waves.svg" alt="wave"/>
+<embed src="waves.svg">
 
 
 
