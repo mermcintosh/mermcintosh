@@ -20,9 +20,6 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mermcintosh&count_private=true&theme=vue-dark&showicons=true)]()
  </span>
 
- <br>
- 
-
 
 <hr>
 
