@@ -54,9 +54,7 @@
 
 <hr>
 
-<body><object data="wave.svg" width="300" height="300"> </object></body>
-
-
+<img alt="my image" src="https://raw.githubusercontent.com/user/branch/images/myimage.svg?example=foo&sanitize=true>
 
 
 <!--
