@@ -13,8 +13,8 @@
 
 <hr>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mermcintosh&langs_count=5&theme=solarized-dark)]()
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mermcintosh&count_private=true&theme=vue&showicons=true)]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mermcintosh&langs_count=5&theme=vue-dark)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mermcintosh&count_private=true&theme=vue-dark&showicons=true)]()
 
  <br>
  
