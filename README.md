@@ -54,8 +54,10 @@
 
 <hr>
 
+<p align="center">
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"><img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="" style="max-width:100%;"></a>
-
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"><img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="" style="max-width:100%;"></a>
+</p>
 
 <!--
 **mermcintosh/mermcintosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
