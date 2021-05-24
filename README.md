@@ -5,7 +5,7 @@
 <hr>
 
  <p align="center">
-  <samp>Creative and solution-driven full-stack software engineer with a background in education. After graduating from Wilmington University in 2015, I worked in the Wicomico County Public School system for 4 years as an elementary educator. I then moved to the DC area in Spring 2019 where I began teaching English to China-based students through VIPKid. When I transitioned to Flatiron School, I took my skills gained from my education background and applied them to learn Ruby, Rails, SQL, Javascript, and React. In my free time, I like to go on hikes, walk my two pugs, try new icecream and coffee shops, and care for plants - lots and lots of plants!
+  <samp>Creative and solution-driven full-stack software engineer with a background in education. After a great 5 years as a primary education and virtual ESL teacher, I found I wanted more opportunities to problem-solve, create and collaborate with like-spirited adults. When I transitioned to the Flatiron School, sparks flew! I took the skills gained from my education background and applied them to learn Ruby, Rails, SQL, Javascript, and React, and I'm using them still as I continue to grow daily as a software developer. In my free time, I like to go on hikes, walk my two pugs, try new icecream and coffee shops, and care for plants - lots and lots of plants!
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=mermcintosh" alt="https://github.com/mermcintosh" />
